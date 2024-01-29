@@ -1,0 +1,99 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  .card {
+    width: 20%;
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .card:hover {
+    scale: 1.1;
+    transition: 0.8s;
+  }
+  
+  .card-img {  
+    
+    background-size: cover; 
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    text-align: center;
+    height: 15rem;
+  }
+  
+  .container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+  }
+  .card-title{
+    color: #ffffff;
+  }
+  
+  #ps5{
+      max-width: 100%;
+      height: auto;
+      width: 50%;
+      overflow: hidden; 
+      margin: 50px auto;
+      background-repeat: no-repeat;
+    }
+  #ps5:hover{
+    scale: 1.1;
+    transition: 0.8s;
+  }
+  p{
+    color: white;
+    font-size: 40px;
+  }
+  p:hover{
+    color: #2972d1;
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    color: #303030;
+  }
+  
+  button{
+    background-color: #2972d1;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    
+  }
+  .btn btn-success{
+    background-color: #2972d1;
+    color: white;
+  }
+  header {
+    background-color: #2b0552;
+  }
+  .nav-link{
+    color: #ffffff;
+  }
+  .nav-link:hover {
+    color:#2972d1;
+  }
+  body{
+    background-color: black;
+    background-image: url('https://png.pngtree.com/back_origin_pic/04/13/30/734f5ba4e4a772658913afbcf380dea5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    }
+  
+  
