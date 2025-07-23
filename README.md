@@ -1,6 +1,7 @@
 Projeto sobre uma loja virtual de compras, com ferramenttas de login, cadastro de produtos, carrinho e calculo de frete.
 
-Linguagens : 
+Linguagens :
+PHP.
 JavaScript.
 Html.
 CSS.
